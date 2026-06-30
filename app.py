@@ -23,7 +23,7 @@ mongo  = MongoClient(MONGO_URI)
 col    = mongo[DB_NAME][COLLECTION_NAME]
 
 st.set_page_config(page_title="PDF Analytics", page_icon="📄", layout="wide")
-st.title("📄 PDF Analytics Platform PROBANDOOO")
+st.title("📄 PDF Analytics Platform prueba")
 st.caption(f"Usuario: {USER}")
 
 # ─── UPLOAD & PROCESS ─────────────────────────────────────────────────────────
