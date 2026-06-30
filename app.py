@@ -7,7 +7,7 @@ import numpy as np
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 COHERE_API_KEY  = "5zDSEx5sEm543Q895Kope54ewQCH2GlNI4ba34Mv"
-GEMINI_API_KEY  = "gen-lang-client-0123265654"
+GEMINI_API_KEY  = "AQ.Ab8RN6Ku3U2QzwxXu9v0ZXSvzWW5Bb_26iNrE5eL3AKBaoTNRQ"
 MONGO_URI       = "mongodb+srv://aikomasaki:aikoA137@am.kgsz3rt.mongodb.net/"
 USER            = "Masaki, Aiko"
 
