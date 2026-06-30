@@ -6,9 +6,9 @@ import pymupdf  # PyMuPDF
 import numpy as np
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-COHERE_API_KEY  = ""
-GEMINI_API_KEY  = ""
-MONGO_URI       = ""
+COHERE_API_KEY  = "5zDSEx5sEm543Q895Kope54ewQCH2GlNI4ba34Mv"
+GEMINI_API_KEY  = "gen-lang-client-0123265654"
+MONGO_URI       = "mongodb+srv://aikomasaki:aikoA137@am.kgsz3rt.mongodb.net/"
 USER            = "Masaki, Aiko"
 
 DB_NAME         = "pdf_analytics"
